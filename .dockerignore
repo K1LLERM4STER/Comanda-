@@ -1,0 +1,13 @@
+.git
+**/.git
+target
+**/target
+.env
+.env.*
+**/.env
+**/.env.*
+application-local.properties
+**/application-local.properties
+.idea
+.vscode
+*.log
